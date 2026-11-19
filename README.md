@@ -3,10 +3,6 @@
 ### Building Digital Skills | Growing Online Presence | Exploring AI-Powered Marketing
 
 
-
-\
-
-
 ---
 
 ## 📌 About This Course
