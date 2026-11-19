@@ -165,8 +165,8 @@ B.Tech Computer Science & Engineering Student | Computer Engineering Diploma Gra
 I'm passionate about software development, Artificial Intelligence, Machine Learning, and emerging technologies.
 
 Currently pursuing B.Tech in Computer Science & Engineering at Sanjivani University, after completing my Diploma in Computer Engineering from S.N.D. Polytechnic, Yeola, Nashik.
-
 I believe in continuous learning, building practical projects, and developing skills to create innovative technology solutions. 🚀
+
 ---
 ### ⭐ Thank You for Visiting!
 
