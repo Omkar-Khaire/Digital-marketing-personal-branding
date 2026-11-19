@@ -160,13 +160,14 @@ Every course I complete is another step toward becoming more skilled, creative, 
 
 **Omkar Khaire**
 
-Diploma Computer Engineering Student | Technology Enthusiast | Aspiring Developer
+B.Tech Computer Science & Engineering Student | Computer Engineering Diploma Graduate | Technology Enthusiast
 
-I'm interested in technology, software development, Artificial Intelligence, and digital innovation.
+I'm passionate about software development, Artificial Intelligence, Machine Learning, and emerging technologies.
 
-I believe in continuous learning and improving my skills through practical experience and professional courses.
+Currently pursuing B.Tech in Computer Science & Engineering at Sanjivani University, after completing my Diploma in Computer Engineering from S.N.D. Polytechnic, Yeola, Nashik.
 
----
+I believe in continuous learning, building practical projects, and developing skills to create innovative technology solutions. 🚀
+
 
 ### ⭐ Thank You for Visiting!
 
