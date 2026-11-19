@@ -2,6 +2,12 @@
 
 ### Building Digital Skills | Growing Online Presence | Exploring AI-Powered Marketing
 
+![Course Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Platform](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![University](https://img.shields.io/badge/Sanjivani%20University-FF6B00?style=for-the-badge&logo=academia&logoColor=white)
+![Duration](https://img.shields.io/badge/Duration-30h%2013m-blue?style=for-the-badge)
+![Curriculum](https://img.shields.io/badge/NEP%202020-2%20Credits-purple?style=for-the-badge)
+![AI Powered](https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Marketing-blueviolet?style=for-the-badge)
 
 ---
 
@@ -167,7 +173,14 @@ I'm passionate about software development, Artificial Intelligence, Machine Lear
 Currently pursuing B.Tech in Computer Science & Engineering at Sanjivani University, after completing my Diploma in Computer Engineering from S.N.D. Polytechnic, Yeola, Nashik.
 I believe in continuous learning, building practical projects, and developing skills to create innovative technology solutions. 🚀
 
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaireomkar12@gmail.com)
+
 ---
+
 ### ⭐ Thank You for Visiting!
 
 Thank you for checking out my learning journey.
